@@ -163,7 +163,7 @@ bool read_details(string& data)
 
       if (user_id == 2456938384156277127 && t < 2)
       {
-         cout << "\nUser ID: " << user_id;
+         //cout << "\nUser ID: " << user_id;
          user2456938384156277127_amt += amt;
       }
    }
