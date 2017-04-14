@@ -1,0 +1,14 @@
+
+1(b). Get GCC compiler suite for C++ compilation
+- Debian, and derivatives
+	# apt install g++-6
+
+- Fedora
+	# yum install g++-6	
+
+2. Compiler with decent C++11 support can be used
+	
+Compilation:
+- GCC (g++) version 5, 6. Version 6 was used.
+	$ g++-6 main.cpp -o proto
+	$ ./proto
